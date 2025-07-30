@@ -5,12 +5,16 @@ This assignment focuses on building a responsive React application using JSX and
 
 ## Assignment Overview
 
+
 You will:
 1. Set up a React project with Vite and Tailwind CSS
 2. Create reusable UI components
 3. Implement state management using React hooks
 4. Integrate with external APIs
 5. Style your application using Tailwind CSS
+
+## Screenshot
+![screenshot](image.png)
 
 ## Getting Started
 
