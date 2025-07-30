@@ -20,7 +20,7 @@ function App() {
   };
 
   return (
-    <Router>
+    <Router basename="/week-3-react-js-assignment-CHEGEBB">
       <div className={`min-h-screen transition-colors duration-300 ${darkMode ? 'dark' : ''}`}>
         <div className="min-h-screen bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100 flex flex-col">
           {/* Header/Navbar */}
