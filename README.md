@@ -13,6 +13,8 @@ You will:
 4. Integrate with external APIs
 5. Style your application using Tailwind CSS
 
+## Live site and url [ https://plp-mern-stack-development.github.io/week-3-react-js-assignment-CHEGEBB/ ]
+
 ## Screenshot
 ![screenshot](image.png)
 
